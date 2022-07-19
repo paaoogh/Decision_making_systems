@@ -1,2 +1,11 @@
-# Decision_making_systems
-Different techniques for decision making including linear optimization, some AI methods and others.
+# Decision Making Systems
+
+The following repository contains:
+   1. Optimistic/Pesimistic approaches based on Minimax/Maximin techniques.
+   2. Regret approach
+   3. Bayesian networks example
+
+Folder *project* includes:
+
+
+
